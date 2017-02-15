@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies </string>
+
+    <!--menu string titles-->
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcomming_movies">Upcomming Movies</string>
+    <string name="action_share">Share</string>
+
+    <string name="connection_error">An Error has oocured. Please check your network connection and try again!</string>
+
+    <!--movie details string contents-->
+    <string name="title">Title:</string>
+    <string name="original_movie_title">original movie title</string>
+    <string name="date">Date:</string>
+    <string name="date_format">00/00/00</string>
+    <string name="rate">Rate:</string>
+    <string name="rate_content">5.8</string>
+    <string name="overview">Overview:</string>
+    <string name="movie_overview">this is place movie overview ....</string>
+
+
+</resources>
